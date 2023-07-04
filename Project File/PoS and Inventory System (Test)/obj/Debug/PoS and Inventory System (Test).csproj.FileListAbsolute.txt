@@ -1,0 +1,17 @@
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\bin\Debug\PoS and Inventory System (Test).exe.config
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\bin\Debug\PoS and Inventory System (Test).exe
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\bin\Debug\PoS and Inventory System (Test).pdb
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).csproj.AssemblyReference.cache
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).csproj.SuggestedBindingRedirects.cache
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS_and_Inventory_System__Test_.Form1.resources
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS_and_Inventory_System__Test_.Properties.Resources.resources
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).csproj.GenerateResource.cache
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).csproj.CoreCompileInputs.cache
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).exe
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).pdb
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS_and_Inventory_System__Test_.frmItem.resources
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS_and_Inventory_System__Test_.frmInvList.resources
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\bin\Debug\PoS and Inventory System (Test).exe.manifest
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\bin\Debug\PoS and Inventory System (Test).application
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).exe.manifest
+C:\Users\legio\source\repos\PoS and Inventory System (Test)\PoS and Inventory System (Test)\obj\Debug\PoS and Inventory System (Test).application
